@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253082890793",
+    "project_id": "terapeluka",
+    "storage_bucket": "terapeluka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253082890793:android:12fad376b8f73796122238",
+        "android_client_info": {
+          "package_name": "com.example.untitled2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253082890793-pkndqjp8j7d3geb8fot4l1vm611bs3ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4QRb0TCvnbLBXgtpJcfEdaoh6S3B3uKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253082890793-pkndqjp8j7d3geb8fot4l1vm611bs3ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
